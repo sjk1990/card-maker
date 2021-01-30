@@ -1,4 +1,4 @@
-@value makerGrey from './common/colors.module.css';
+@value makerWhite from './common/colors.module.css';
 
 body {
   margin: 0;
@@ -7,7 +7,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: makerGrey;
+  background-color: makerWhite;
 }
 
 code {
