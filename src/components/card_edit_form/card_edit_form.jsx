@@ -29,7 +29,7 @@ const CardEditForm = ({ FileInput, card, updateCard, deleteCard }) => {
       ...card,
       [event.currentTarget.name]: event.currentTarget.value,
     });
-    console.dir(event.currentTarget);
+    // console.dir(event.currentTarget);
   };
 
   const onSubmit = () => {
