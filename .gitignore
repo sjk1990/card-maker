@@ -27,3 +27,12 @@ yarn-error.log*
 
 #env
 .env
+
+#netlify
+.netlify/
+
+#build
+build
+
+#package
+package-lock.json
